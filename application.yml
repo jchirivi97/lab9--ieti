@@ -1,0 +1,4 @@
+primavera :
+  datos :
+    mongodb :
+      uri : mongodb+srv://jchirivi97:jimmy970126@ieti.ubrvl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
